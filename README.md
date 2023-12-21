@@ -16,4 +16,5 @@ We welcome contributions from the open-source community! If you find any of our 
 Reporting bugs and suggesting improvements.
 Forking and enhancing our codebases.
 Sharing your feedback and experiences.
-Together, let's build a thriving community of passionate technologists and create solutions that make a difference.#
+Together, let's build a thriving community of passionate technologists and create solutions that make a difference.
+#Meltjac Techs, Life We Live In
