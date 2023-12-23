@@ -187,7 +187,8 @@ export const projects = [
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Hashtag Hive!',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
+        description: 'A Social media platform with a focus on authenticity, connection, and creativity. We envision a space where users can freely express themselves, engage in meaningful conversations, 
+        and discover diverse perspectives.',
         link: 'https://github.com/meltjacTechs/BuzzFeed',
     },
     {
