@@ -186,7 +186,7 @@ export const projects = [
       {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Hashtag Hive!',
+        name: '#Snapgram!',
         description: 'A Social media platform that envisions a space where users can freely express themselves, engage in meaningful conversations, and discover diverse perspectives.',
         link: 'https://github.com/meltjacTechs/BuzzFeed',
     },
