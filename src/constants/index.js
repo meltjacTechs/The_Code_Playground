@@ -184,11 +184,11 @@ export const socialLinks = [
 
 export const projects = [
       {
-        iconUrl: snapgram,
+        iconUrl: Imaginify,
         theme: 'btn-back-pink',
-        name: '#Snapgram!',
-        description: 'A Social media platform that envisions a space where users can freely express themselves, engage in meaningful conversations, and discover diverse perspectives.',
-        link: 'https://github.com/meltjacTechs/BuzzFeed',
+        name: 'Imaginify',
+        description: 'AI-powered image generator, a minimalist Canva clone to be precise.',
+        link: 'https://imaginify-self.vercel.app/',
     },
     {
         iconUrl: pricewise,
