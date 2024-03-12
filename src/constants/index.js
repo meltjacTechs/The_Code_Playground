@@ -191,7 +191,7 @@ export const projects = [
         link: 'https://imaginify-self.vercel.app/',
     },
     {
-        iconUrl: pricewise,
+        iconUrl: evently,
         theme: 'btn-back-red',
         name: 'Centsational Finds',
         description: 'Nextjs 14 powered e-commerce site with an admin panel so good...Tony Stark would feel a little jealous😂😂😂.',
