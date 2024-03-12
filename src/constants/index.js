@@ -184,7 +184,7 @@ export const socialLinks = [
 
 export const projects = [
       {
-        iconUrl: Imaginify,
+        iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Imaginify',
         description: 'AI-powered image generator, a minimalist Canva clone to be precise.',
